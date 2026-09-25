@@ -1,0 +1,10 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Java build files
+target/
+
+# Database credentials
+Task-3-JDBC_Integration/src/main/resources/db.properties
